@@ -60,7 +60,9 @@ __END__
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/ericduran/drupalcores">View on GitHub</a>
           <h1 id="project_title">DrupalCores</h1>
-          <h2 id="project_tagline">A very basic table of all contributors to Drupal 8 Core</h2>
+          <h2 id="project_tagline">A very basic table of all contributors to Drupal 8 Core
+          <p>This is copy of <a href="http://ericduran.github.io/drupalcores/index.html">http://ericduran.github.io/drupalcores</a>. It's done due that on original resource some data is out of date, especially companies list.</p>
+          </h2>
         </header>
     </div>
 
