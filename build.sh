@@ -20,9 +20,9 @@ else
   cd ..
 fi
 
-./cores.rb > ./pages/index.html
-./companies.rb > ./pages/companies.html
-./json.rb > ./pages/data.json
+/usr/bin/ruby1.9.1 ./cores.rb > ./pages/index.html
+/usr/bin/ruby1.9.1 ./companies.rb > ./pages/companies.html
+/usr/bin/ruby1.9.1 ./json.rb > ./pages/data.json
 
 cd pages
 git commit -am "Update bump."
